@@ -1,7 +1,6 @@
 - 👋 Olá! Eu sou Kawan Messias
 
-- 👨🏻‍💻 Hoje estou trabalhando como Auxiliar Administrativo T.I. No futuro pretendo estar atuando na área da programação
-- 📒 Estudando JavaScript, HTML, CSS, Java e AWS
+
 
 <div>
   <a href="https://github.com/kawan02">
