@@ -1,4 +1,4 @@
-- 👋 Olá! Eu sou Kawan Messias
+Olá, eu sou Kawan Messias estudante de programação e tecnologia!
 
 
 
