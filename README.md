@@ -1,4 +1,4 @@
-Olá, eu sou Kawan Messias estudante de programação e tecnologia.
+Olá, eu sou Kawan Messias, estudante de programação e tecnologia.
 
 
 
