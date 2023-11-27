@@ -6,7 +6,7 @@
 
 <br>
 
-## 🚀 Minhas Skills
+## 🚀 Minhas Skills:
 <div style="display: inline_block">
   <img align="center" alt="Kawan-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Kawan-Go" height="90" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
@@ -18,7 +18,7 @@
 
 <br>
 
-## 🛠️ Ferramentas de desenvolvimento
+## 🛠️ Ferramentas de desenvolvimento:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git," />
@@ -27,7 +27,7 @@
 
 <br>
 
-## 📊 Estatísticas
+## 📊 Estatísticas:
 <div align="flex">
   <a href="https://github.com/Kawan02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kawan02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
