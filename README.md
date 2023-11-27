@@ -19,11 +19,9 @@
 <br>
 
 ## 🛠️ Ferramentas de desenvolvimento:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git," />
-  </a>
-</p>
+<div style="display: inline_block"> 
+    <img align="center" alt="Kawan-Desenvolvimento" height="35" width="100"  src="https://skillicons.dev/icons?i=vscode,git">
+</div>
 
 <br>
 
