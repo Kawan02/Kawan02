@@ -2,7 +2,7 @@
 ## 🖖 Olá, meu nome é <strong>Kawan Messias!</strong>
 
 - 💻 Explorando novas tecnologias e desenvolvendo soluções de software utilizando os conhecimentos adquiridos na faculdade.
-- 🎓 Formação concluída de **Análise e desenvolvimento de sistemas** pela <a href="https://www.impacta.edu.br/" target="_blank">Faculdade Impacta</a>.
+- 🎓 Formação concluída em **Análise e desenvolvimento de sistemas** pela <a href="https://www.impacta.edu.br/" target="_blank">Faculdade Impacta</a>.
 
 <br>
 
